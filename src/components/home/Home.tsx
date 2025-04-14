@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "../header/Header";
 import SummarySection from "../summarySection/SummarySection";
 import Blog from "../blog/Blog";

@@ -1,4 +1,3 @@
-import React from "react";
 import { Copyright, Icons, FooterIcons, IconsWrepper } from "./styles";
 import face from "/img/fb.svg";
 import insta from "/img/insta.svg";

@@ -1,4 +1,3 @@
-import React from "react";
 import { SummaryButton, SummaryText, SummaryTitle } from "./styles";
 import { CenterContentOnScreen } from "../CenterContentOnScreen";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import { HeaderWrapper, ButtonHeader } from "./styles";
 
 const Header = () => {
